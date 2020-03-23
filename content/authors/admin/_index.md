@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Derek Gray, Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Department of Biology, Wilfrid Laurier University
+  url: "https://www.wlu.ca/programs/science/undergraduate/biology-bsc/program-details.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include zooplankton ecology and affects of environmental change on lakes.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +32,11 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/derek_gray1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.ca/citations?user=3BOcMJQAAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +48,19 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aquatic communities are facing a variety of environmental stressors including climate change, increased nutrient levels, pollution, acidification, and invasive species introductions. While the impacts of these interacting stressors are being studied extensively, our ability to accurately forecast the response of communities to environmental change remains poor. Research in my lab aims to understand and predict the impacts of short- and long-term environmental change on aquatic communities. We use a mix of field and laboratory experiments, synoptic surveys, and time-series analyses in our research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Our research interests include:
+<ul type="disc">
+<li>Aquatic ecology</li>
+<li>Dispersal ecology</li>
+<li>Biological and physical responses to environmental change</li>
+<li>Invasion biology</li>
+<li>Planktonic organisms</li>
+</ul>
+

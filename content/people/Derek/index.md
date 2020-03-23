@@ -1,0 +1,53 @@
+---
+title: Derek Gray
+summary: Assistant Professor
+
+tags:
+- Current
+date: "2016-04-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: 
+  focal_point: Smart
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---
+
+
+
+Background:
+
+Why is a particular species abundant in one area but rare or absent in another? The answer to this fundamental question might seem obvious on the surface, but ecologists have spent decades trying to answer it!
+
+In an ideal world we would be able to develop mathematical models that fully explain the distribution and abundance of organisms throughout the biosphere. If we could develop such models we would not only understand present-day species distributions, but would be able to predict biological responses to future changes in our environment. For example, the model might give us a robust prediction for how the distribution and abundance of polar bears might change based on the ongoing loss of sea ice.
+
+While many decent models have been developed for predicting the distribution and/or abundance of individual species, most suffer from low explanatory power. Some of this is probably the result of errors in data used to build the models (e.g. sampling error when doing field counts), but the more intriguing possiblity is that we might have missed measuring some important predictor variable that accounts for much of that unexplained variation. 
+
+Back to the original question: what factors control the distribution and abundance of organisms? Most of the projects in my laboratory try to answer that question for planktonic organisms found in lakes. Zooplankton are especially useful for this type of research as they are widely distributed, easy to collect, and exhibit species-specific responses to environmental gradients.
+
+Some of the basic questions I hope to answer with my research are:
+
+    What physical and environmental variables control the distribution and abundance of zooplankton in lakes and ponds?
+    What role do dispersal and colonization processes play in determining the distribution and abundance of plankton species?
+    How are humans impacting aquatic environments?
+    How will planktonic organisms respond to changes in their environment?
+
+Research in my lab relies on a mix of field experiments, synoptic surveys, and time series analyses to test and refine hypotheses.
