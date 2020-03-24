@@ -10,14 +10,14 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption: Matthew Teillet
   focal_point: Smart
   
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/MatthewTeillet
 url_code: ""
 url_pdf: ""
 url_slides: ""
