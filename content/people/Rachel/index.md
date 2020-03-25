@@ -32,3 +32,4 @@ slides: ""
 
 This project will examine how the distribution of important food and sport fishes in Gwich’in Settlement Area (GSA) and Inuvialuit Settlement Region (ISR) lakes will shift in response to climate change. In order to forecast future changes, we will collect baseline data on fish communities and water quality for 60 lakes and develop habitat suitability models for burbot, trout, grayling, and walleye. This project will produce important baseline fish data for the GSA and ISR, and will provide information that can be used by resource boards in the development of management plans for coldwater fisheries.
 
+**Current position:** Account Manager at Polaris Intelligence
