@@ -5,7 +5,8 @@ tags:
 - Fish
 - Climate_change
 - Arctic
-date: "2020-03-24T00:00:00Z"
+- Lakes
+date: "2020-03-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -36,7 +37,7 @@ slides: ""
 
 This project will examine how the distribution of important food and sport fishes in Gwich’in Settlement Area (GSA) and Inuvialuit Settlement Region (ISR) lakes will shift in response to climate change. In order to forecast future changes, we will collect baseline data on fish communities and water quality for 60 lakes and develop habitat suitability models for burbot, trout, grayling, and walleye. This project will produce important baseline fish data for the GSA and ISR, and will provide information that can be used by resource boards in the development of management plans for coldwater fisheries.
 
-**Associated students:** [Jasmina Vucic]({{< ref "/people/Jasmina/index.md" >}}), [Rachel Cohen]({{< ref "/people/Rachel/index.md" >}})
+**Associated students:** [Jasmina Vucic]({{< ref "/people/Jasmina/index.md" >}}), [Rachel Cohen]({{< ref "/people/Rachel/index.md" >}}), [Matthew Teillet]({{< ref "/people/matt/index.md" >}}), [Thomas Pretty]({{< ref "/people/Tom/index.md" >}}), [Mariam Elmarsafy]({{< ref "/people/mariam/index.md" >}})
 
 **Collaborators:** [Dr. Sapna Sharma (York University)](https://sharmalab.wordpress.com/), Alyssa Murdoch (York University)
 

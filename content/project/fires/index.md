@@ -4,7 +4,10 @@ summary: Forest fires are increasing in frequency and severity. How do they impa
 tags:
 - Benthic_inverts
 - Zooplankton
-date: "2020-03-24T00:00:00Z"
+- Lakes
+- Fires
+- Arctic
+date: "2020-03-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

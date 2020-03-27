@@ -1,6 +1,6 @@
 ---
 title: Graduate opportunities
-summary: No opportunities at this time.
+summary: There are no current funded graduate opportunities. If you are competitive for an NSERC or OGS scholarship, please feel free to contact me and we can discuss some project ideas!
 date: "2020-03-22T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?

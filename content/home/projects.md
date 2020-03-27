@@ -28,6 +28,18 @@ subtitle = ""
    [[content.filter_button]]
      name = "Climate change"
      tag = "Climate_change"
+     
+   [[content.filter_button]]
+     name = "Development"
+     tag = "Development"
+     
+[[content.filter_button]]
+     name = "Salinity"
+     tag = "Salinity"
+
+[[content.filter_button]]
+     name = "Fires"
+     tag = "Fires"
   
    [[content.filter_button]]
      name = "Fish"
@@ -38,9 +50,28 @@ subtitle = ""
      tag = "Zooplankton"
      
 [[content.filter_button]]
-     name = "Development"
-     tag = "Development"
+     name = "Benthic inverts"
+     tag = "Benthic_inverts"
      
+[[content.filter_button]]
+     name = "Arctic"
+     tag = "Arctic"
+     
+[[content.filter_button]]
+     name = "Great Plains"
+     tag = "Great_Plains"
+
+[[content.filter_button]]
+     name = "Lakes"
+     tag = "Lakes"
+     
+[[content.filter_button]]
+     name = "Rivers"
+     tag = "Rivers"
+
+
+     
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

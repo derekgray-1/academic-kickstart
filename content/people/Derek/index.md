@@ -4,7 +4,7 @@ summary: Assistant Professor
 
 tags:
 - Current
-date: "2016-04-27T00:00:00Z"
+date: "2020-03-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/derek_gray1
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -31,9 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-
-
-Background:
+[Derek's Google Scholar page](https://scholar.google.com/citations?user=3BOcMJQAAAAJ&hl=en)
 
 Why is a particular species abundant in one area but rare or absent in another? The answer to this fundamental question might seem obvious on the surface, but ecologists have spent decades trying to answer it!
 
@@ -45,9 +43,9 @@ Back to the original question: what factors control the distribution and abundan
 
 Some of the basic questions I hope to answer with my research are:
 
-    What physical and environmental variables control the distribution and abundance of zooplankton in lakes and ponds?
-    What role do dispersal and colonization processes play in determining the distribution and abundance of plankton species?
-    How are humans impacting aquatic environments?
-    How will planktonic organisms respond to changes in their environment?
+1. What physical and environmental variables control the distribution and abundance of zooplankton in lakes and ponds?
+2. What role do dispersal and colonization processes play in determining the distribution and abundance of plankton species?
+3. How are humans impacting aquatic environments?
+4. How will planktonic organisms respond to changes in their environment?
 
 Research in my lab relies on a mix of field experiments, synoptic surveys, and time series analyses to test and refine hypotheses.
