@@ -19,7 +19,7 @@ authors = ["Vucic, J.M.","Gray, D.K.","Cohen, R.S.","Syed, M.","Murdoch, A.D.","
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Review at *Ecological Applications*"
+publication = "In press at *Ecological Applications*"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.

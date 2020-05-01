@@ -4,7 +4,7 @@ summary: Assistant Professor
 
 tags:
 - Current
-date: "2020-03-28T00:00:00Z"
+date: "2020-04-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,7 +31,15 @@ url_video: ""
 slides: ""
 ---
 
+**Background:**
+
+I have been an Assistant Professor in the Department of Biology at Wilfrid Laurier University since 2016. I teach courses on limnology, population ecology, invertebrate biodiversity, and biological statistics. Prior to starting at Laurier, I was at California University of Pennsylvania for two years and did a postdoctoral fellowship at the University of California Santa Barabara in 2012-2013. 
+
+At Laurier, my research group studies the relationships between organisms and their environment, and how biological communities respond to changes in the environment. Our recent research has examined fish and zooplankton communities in Arctic lakes and in lakes on the Great Plains of North America. 
+
 [Derek's Google Scholar page](https://scholar.google.com/citations?user=3BOcMJQAAAAJ&hl=en)
+
+**Research summary:**
 
 Why is a particular species abundant in one area but rare or absent in another? The answer to this fundamental question might seem obvious on the surface, but ecologists have spent decades trying to answer it!
 

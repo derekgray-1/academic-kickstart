@@ -19,7 +19,7 @@ authors = ["Cohen, R.S.", "Gray, D.K.","Vucic, J.M.","Murdoch, A.D.","Sharma, S.
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Review at *Canadian Journal of Fisheries and Aquatic Sciences*"
+publication = "In revision for *Canadian Journal of Fisheries and Aquatic Sciences*"
 #publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
